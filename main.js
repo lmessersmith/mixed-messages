@@ -13,7 +13,7 @@ function airCraft() {
 
     airCraftArray.push('A Boeing 747 airliner is made up of 6,000,000 parts.');
     airCraftArray.push('JFK Airport in New York was orignally named Idlewild.');
-    airCraftArray.push('At any given hour, thre are over 61,000 people airborn over the United States.');
+    airCraftArray.push('At any given hour, thre are over 61,000 people airborne over the United States.');
     airCraftArray.push('Pilots and co-pilots are required to eat different meals in case of food poisoning.');
     airCraftArray.push('Stewardess is the longest word in the English language typed with just the left hand.');
     airCraftArray.push('Worldwide there are approximately 200,000 flights every day.');
@@ -32,7 +32,7 @@ returns an array of facts about artists
 function artists() {
     let artistArray = [];
 
-    artistArray.push('The Mona Lisa was not famous untill it was stolen.');
+    artistArray.push('The Mona Lisa was not famous until it was stolen.');
     artistArray.push('Acrylic paint only because commercially available in the 1950s.');
     artistArray.push('Leonard da Vinci could write with one hand and draw with the other, simultaneously.');
     artistArray.push('Artists used to store their paint in animal bladders.');
@@ -59,10 +59,10 @@ function baseball() {
     baseballArray.push('During a swing, a baseball bat may travel 80 mph at its peak.');
     baseballArray.push('A baseball pitcher\'s curveball can curve over 17 inches away from a straight line toward home plate.');
     baseballArray.push('No one hit an RBI in the 1968 All-Star game.');
-    baseballArray.push('Baseball Hall of famer, Johnny Bench, can hold seven aseballs in one hand.');
+    baseballArray.push('Baseball Hall of famer, Johnny Bench, can hold seven baseballs in one hand.');
     baseballArray.push('The Boston Americans won the baseball\'s first World Series in 1903.');
-    baseballArray.push('In the late 1957 season, the Cubs and Dogers trader their entier minor league team.');
-    baseballArray.push('It is a rule that a pitcher must first wipe his hand of his uniform beofre he grips the ball for a pitch.');
+    baseballArray.push('In the late 1957 season, the Cubs and Dodgers trader their entire minor league team.');
+    baseballArray.push('It is a rule that a pitcher must first wipe his hand of his uniform before he grips the ball for a pitch.');
 
     return baseballArray;
 }
@@ -71,27 +71,27 @@ function baseball() {
 Function for holding facts about celebrities
 returns an array of facts about celebrities
 */
-function celebrites() {
-    let celebritesArray = [];
+function celebrities() {
+    let celebritiesArray = [];
 
-    celebritesArray.push('Dennis Quaid is a trained ballet dancer.');
-    celebritesArray.push('Nicolas Cage once spent $150,000 on a pet octopus.');
-    celebritesArray.push('Julia Roberts\' smile is insured for $30,000,000.');
-    celebritesArray.push('Rhianna spends $1,168,000 a year on her hair.');
-    celebritesArray.push('Prior to his death, Robin Williams had a stipulation in his contract that for any movie or' + 
-                         'event that he did, the company hiring him also hire a certain number of homless people and put them to work.');
-    celebritesArray.push('Tom Hanks has an asteroid named after him called "12812 tomhanks".');
-    celebritesArray.push('Jerry Springer was mayor of Cincinnati from 1977 to 1981.');
-    celebritesArray.push('Steven Spielberg is worth almost $3 Billion.');
-    celebritesArray.push('Rowan Atkinson has a master\'s degree in Electrical Engineering');
-    celebritesArray.push('Ryan Gosling was asked to audition for the Backstree Boys but turned it down.');
+    celebritiesArray.push('Dennis Quaid is a trained ballet dancer.');
+    celebritiesArray.push('Nicolas Cage once spent $150,000 on a pet octopus.');
+    celebritiesArray.push('Julia Roberts\' smile is insured for $30,000,000.');
+    celebritiesArray.push('Rhianna spends $1,168,000 a year on her hair.');
+    celebritiesArray.push('Prior to his death, Robin Williams had a stipulation in his contract that for any movie or' + 
+                         'event that he did, the company hiring him also hire a certain number of homeless people and put them to work.');
+    celebritiesArray.push('Tom Hanks has an asteroid named after him called "12812 tomhanks".');
+    celebritiesArray.push('Jerry Springer was mayor of Cincinnati from 1977 to 1981.');
+    celebritiesArray.push('Steven Spielberg is worth almost $3 Billion.');
+    celebritiesArray.push('Rowan Atkinson has a master\'s degree in Electrical Engineering');
+    celebritiesArray.push('Ryan Gosling was asked to audition for the Backstreet Boys but turned it down.');
 
-    return celebritesArray;
+    return celebritiesArray;
 }
 
 /*
-Function for holding facts about the enviornment
-returns an array of facts about the enviornment
+Function for holding facts about the environment 
+returns an array of facts about the environment
 */
 function environment() {
     let enviroArray = [];
@@ -99,11 +99,11 @@ function environment() {
     enviroArray.push('77 million people are born every year.');
     enviroArray.push('80 trillion aluminum cans are used by humans every year.');
     enviroArray.push('Humans have destroyed 25-30% of the coral reefs which are homes to 25% of marine life.');
-    enviroArray.push('Pollution is one of the biggest global killers, affectubg iver 100 million people.');
+    enviroArray.push('Pollution is one of the biggest global killers, affecting over 100 million people.');
     enviroArray.push('More than 1 billion people worldwide don\'t have access to safe drinking water.');
-    enviroArray.push('There are more than 73 various types of pesticides in the growndwarter used for drinking.');
+    enviroArray.push('There are more than 73 various types of pesticides in the groundwater used for drinking.');
     enviroArray.push('Antartica is the cleanest place on Earth due to anti-pollution laws.');
-    enviroArray.push('Pollution in China can chane the weather in America.');
+    enviroArray.push('Pollution in China can change the weather in America.');
     enviroArray.push('In Australia, 1% of their unused geothermal power potential could provide energy for 36,000 years.');
     enviroArray.push('By 2050, virtually every seabird species on the planet will be eating plastic.');
 
@@ -119,13 +119,13 @@ function engineering() {
 
     engineArray.push('The upper tower of the Empire State Building was originally designed as a mooring mast for airships.');
     engineArray.push('The Golden Gate Bridge took 4 years to build.');
-    engineArray.push('Concrete will continue to dry and strengthen over its entier lifespan.');
+    engineArray.push('Concrete will continue to dry and strengthen over its entire lifespan.');
     engineArray.push('The Pons Fabricius has connected Tiber Island to the heart of Rome since 62 B.C.');
-    engineArray.push('The Colosseum in Rome had 80 entrances and could seat approximatley 50,000 spectators.');
-    engineArray.push('The Great Pyramid of Giza is the only remaning of the Seven Wonders of the World.');
+    engineArray.push('The Colosseum in Rome had 80 entrances and could seat approximately 50,000 spectators.');
+    engineArray.push('The Great Pyramid of Giza is the only remaining of the Seven Wonders of the World.');
     engineArray.push('A woman named Emily Roebling supervised the construction of the Brooklyn Bridge.');
     engineArray.push('Savannah, Georgia is considered to be the first planned city in the United States');
-    engineArray.push('The Collosseum in Rome took 8 years to build between 73-75 A.D.');
+    engineArray.push('The Colosseum in Rome took 8 years to build between 73-75 A.D.');
     engineArray.push('The Eiffel Tower was the tallest structure in the world until 1930.');
 
     return engineArray;
@@ -140,13 +140,13 @@ function fastFood() {
 
     fastFoodArray.push('McDonald\'s is the world\'s largest toy distributor.');
     fastFoodArray.push('Colonel Sanders opened another restaurant after KFC: Claudia Sanders.');
-    fastFoodArray.push('There are alomst 38 million combinations of sadwiches at Subway.');
+    fastFoodArray.push('There are almost 38 million combinations of sandwiches at Subway.');
     fastFoodArray.push('Chick-fil-A squeezes more than 200 million lemons a year.');
-    fastFoodArray.push('A study found a link between consumption of fast fod and high rates of depression.');
+    fastFoodArray.push('A study found a link between consumption of fast food and high rates of depression.');
     fastFoodArray.push('Artificial coloring found in some fast food has been inked to diagnoses of ADHD.');
-    fastFoodArray.push('In Mexico, Taco Bell labeled their signatre fare as "American Food"');
+    fastFoodArray.push('In Mexico, Taco Bell labeled their signature fare as "American Food"');
     fastFoodArray.push('Subway is the largest food chain in the world.');
-    fastFoodArray.push('Usain Bolt ate 1,000 chicken nuggest during the 2008 Beijing Olympics.');
+    fastFoodArray.push('Usain Bolt ate 1,000 chicken nuggets during the 2008 Beijing Olympics.');
     fastFoodArray.push('20% of all American meals are eaten in the car.');
 
     return fastFoodArray;
@@ -163,10 +163,10 @@ function fitness() {
     fitnessArray.push('Each muscle fiber is thinner than a human hair and can support up to 1,000 times its weight.');
     fitnessArray.push('45 minutes of exercise 3 times a week can result in cells that show fewer signs of aging.');
     fitnessArray.push('You use 200 muscles to take a single step forward.');
-    fitnessArray.push('Listening to music while working out can improve yor performance by 15%.');
+    fitnessArray.push('Listening to music while working out can improve your performance by 15%.');
     fitnessArray.push('80% of Americans who have gym memberships don\'t use it.');
     fitnessArray.push('Physical inactivity is estimated to cost health-care systems $55 billion annually.');
-    fitnessArray.push('30 minutes of working out can proide a boost to your mood for 12 hours.');
+    fitnessArray.push('30 minutes of working out can provide a boost to your mood for 12 hours.');
     fitnessArray.push('150 minutes of moderate exercise per week can improve your sleep quality by 65%.');
     fitnessArray.push('Gym goes are more likely to eat chocolate that non-gym goers.');
 
@@ -201,12 +201,12 @@ returns an array of facts about the human body
 function humanBody() { 
     let humanArray = [];
 
-    humanArray.push('The cornea is the only part of the body with no blood supply, it gets its uxygen directly from the air.');
+    humanArray.push('The cornea is the only part of the body with no blood supply, it gets its oxygen directly from the air.');
     humanArray.push('There are more than 100,000 miles of blood vessels in your body.');
     humanArray.push('From birth to death the human body goes from 300 bones to 206.');
     humanArray.push('Half the population has eye mites.');
     humanArray.push('12% of people dream in black and white.');
-    humanArray.push('Thumbs hace thier own pulse.');
+    humanArray.push('Thumbs have their own pulse.');
     humanArray.push('On a genetic level, all humans are more than 99% identical.');
     humanArray.push('You can\'t breathe and swallow at the same time.');
     humanArray.push('hearts can beat outside their own bodies.');
@@ -250,8 +250,8 @@ function money() {
     moneyArray.push('The English £5 note contains beef tallow in minuscule amounts.');
     moneyArray.push('It takes 15 years of training to become an engraver for the U.S. Mint.');
     moneyArray.push('Seashells were once commonly used as money in many parts of the world.');
-    moneyArray.push('Queen Elizabeth II is featured on the currencies of more than 30 contries.');
-    moneyArray.push('A viurs can live on paper currency for up to 17 days.');
+    moneyArray.push('Queen Elizabeth II is featured on the currencies of more than 30 countries.');
+    moneyArray.push('A virus can live on paper currency for up to 17 days.');
     moneyArray.push('In Benjamin Franklin\'s, people repaired torn bills with a needle and a thread.');
 
     return moneyArray;
@@ -267,7 +267,7 @@ function occupation() {
     occupationArray.push('Before the age of 40, Americans hold between 7 to 8 different jobs.');
     occupationArray.push('A book conservator restores old books, manuscripts, and other documents');
     occupationArray.push('Once an item is filed away, there is a 98% chance it will never be seen again.');
-    occupationArray.push('The average office chair with wheels trales about 8 miles per year.');
+    occupationArray.push('The average office chair with wheels travels about 8 miles per year.');
     occupationArray.push('The average worker spends at least 50 minutes a day looking for lost items and files. ');
     occupationArray.push('There are people that are paid to watch paint dry.');
     occupationArray.push('Typical length of a job search: 16.9 weeks');
@@ -306,7 +306,7 @@ returns an array of facts about phobias
 function phobias() {
     let phobiaArray = [];
 
-    phobiaArray.push('Anthrophobia - Fear of flowers');
+    phobiaArray.push('Anthrophobia - Fear of people');
     phobiaArray.push('Barophobia - Fear of gravity');
     phobiaArray.push('Chionophobia - Fear of snow');
     phobiaArray.push('Entomophobia - Fear of insects');
@@ -315,7 +315,7 @@ function phobias() {
     phobiaArray.push('Megalophobia - Fear of large things');
     phobiaArray.push('Papyrophobia - Fear of paper');
     phobiaArray.push('Omphalophobia - Fear of belly buttons');
-    phobiaArray.push('Phgonophobia - Fear of beards');
+    phobiaArray.push('Pogonophobia - Fear of beards');
 
     return phobiaArray;
 }
@@ -336,7 +336,7 @@ function science() {
     scienceArray.push('In some circumstances, hot water can freeze faster than cold water.');
     scienceArray.push('It only takes 6 minutes for brain cells to react to alcohol.');
     scienceArray.push('Tomatoes have more genes than humans.');
-    scienceArray.push('The average speed of a Heinz ketchup sqrit is 0.028 mph');
+    scienceArray.push('The average speed of a Heinz ketchup squirt is 0.028 mph');
 
     return scienceArray;
 }
@@ -369,10 +369,10 @@ function weather() {
     let weatherArray = [];
 
     weatherArray.push('A heatwave can make train tracks bend.');
-    weatherArray.push('Sandstorms can swallow up entier cities.');
+    weatherArray.push('Sandstorms can swallow up entire cities.');
     weatherArray.push('Lighting strikes the Empire State Building about 23 times per year.');
-    weatherArray.push('Worms wriggl to the surface before a flood because they can\'t get oxygen when the soil is flooded.');
-    weatherArray.push('Raindrops can be the size of a ousefly and fall at more than 18 mph');
+    weatherArray.push('Worms wriggle to the surface before a flood because they can\'t get oxygen when the soil is flooded.');
+    weatherArray.push('Raindrops can be the size of a housefly and fall at more than 18 mph');
     weatherArray.push('The wind doesn\'t make a sound until it blows against an object.');
     weatherArray.push('A thunderstorm can produce 99 mph winds.');
     weatherArray.push('Snowflakes falling at 2-4 mph can take up to 1 hour to reach the ground.');
@@ -382,6 +382,7 @@ function weather() {
     return weatherArray;
 
 }
+
 
 /*
 Function generates random numbers and pulls random facts from various arrays.
@@ -411,7 +412,7 @@ function randomFacts() {
                 console.log(catagory[randFact]);
                 break;
             case 2:
-                catagory = celebrites();
+                catagory = celebrities();
                 console.log(catagory[randFact]);
                 break;
             case 3:
